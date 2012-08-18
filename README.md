@@ -1,2 +1,1 @@
-simplypractice_hp
-=================
+This is the test repo for the home page...
